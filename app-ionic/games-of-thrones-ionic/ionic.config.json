@@ -1,0 +1,7 @@
+{
+  "name": "app-teste-cli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
